@@ -1,0 +1,8 @@
+Set initial date
+
+Mark outcomes in calendar with hover over on day
+
+Outcomes history in calendar
+
+Put unspent money in "savings" or add them to the new budget
+
