@@ -1,0 +1,12 @@
+C:\Users\tdimitrov\Documents\Visual Studio 2015\Projects\BudgetWatcher-project\BudgetDB\bin\Debug\BudgetDB.dll.config
+C:\Users\tdimitrov\Documents\Visual Studio 2015\Projects\BudgetWatcher-project\BudgetDB\bin\Debug\BudgetDB.dll
+C:\Users\tdimitrov\Documents\Visual Studio 2015\Projects\BudgetWatcher-project\BudgetDB\bin\Debug\BudgetDB.pdb
+C:\Users\tdimitrov\Documents\Visual Studio 2015\Projects\BudgetWatcher-project\BudgetDB\bin\Debug\EntityFramework.dll
+C:\Users\tdimitrov\Documents\Visual Studio 2015\Projects\BudgetWatcher-project\BudgetDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tdimitrov\Documents\Visual Studio 2015\Projects\BudgetWatcher-project\BudgetDB\bin\Debug\EntityFramework.xml
+C:\Users\tdimitrov\Documents\Visual Studio 2015\Projects\BudgetWatcher-project\BudgetDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tdimitrov\Documents\Visual Studio 2015\Projects\BudgetWatcher-project\BudgetDB\obj\Debug\BudgetDB.csprojResolveAssemblyReference.cache
+C:\Users\tdimitrov\Documents\Visual Studio 2015\Projects\BudgetWatcher-project\BudgetDB\obj\Debug\BudgetDB.dll
+C:\Users\tdimitrov\Documents\Visual Studio 2015\Projects\BudgetWatcher-project\BudgetDB\obj\Debug\BudgetDB.pdb
+C:\Users\tdimitrov\Documents\Visual Studio 2015\Projects\BudgetWatcher-project\BudgetDB\obj\Debug\BudgetDB.Migrations.InitialCreate.resources
+C:\Users\tdimitrov\Documents\Visual Studio 2015\Projects\BudgetWatcher-project\BudgetDB\obj\Debug\BudgetDB.csproj.GenerateResource.Cache
