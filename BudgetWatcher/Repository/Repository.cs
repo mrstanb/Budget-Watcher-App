@@ -29,6 +29,7 @@ namespace BudgetWatcher.Repository
 
         public decimal TotalSpendings()
         {
+            //Hello
             int bId = GetBudgetId();
             if (this.Context.Outcomes.Where(x => x.BudgetId == bId).Any())
             {
